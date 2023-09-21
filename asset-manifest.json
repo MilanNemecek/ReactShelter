@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react/shelter/static/css/main.9f088a99.css",
+    "main.js": "/react/shelter/static/js/main.a1b72b88.js",
+    "static/js/787.94e55947.chunk.js": "/react/shelter/static/js/787.94e55947.chunk.js",
+    "index.html": "/react/shelter/index.html",
+    "main.9f088a99.css.map": "/react/shelter/static/css/main.9f088a99.css.map",
+    "main.a1b72b88.js.map": "/react/shelter/static/js/main.a1b72b88.js.map",
+    "787.94e55947.chunk.js.map": "/react/shelter/static/js/787.94e55947.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f088a99.css",
+    "static/js/main.a1b72b88.js"
+  ]
+}
